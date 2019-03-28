@@ -1,2 +1,1 @@
 
-var obj = {recipes:'food'}
